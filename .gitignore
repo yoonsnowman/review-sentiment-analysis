@@ -2,6 +2,9 @@
 data/SNS/
 data/쇼핑몰/
 data.zip
+model/
+results/
+
 
 __pycache__/
 *.py[codz]
